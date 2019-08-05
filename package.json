@@ -1,6 +1,6 @@
 {
   "name": "@hvsy/ant-design-pro-v2",
-  "version": "dev",
+  "version": "0.0.1",
   "scripts": {
     "build": "tsc"
   },
